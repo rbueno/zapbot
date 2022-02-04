@@ -4,7 +4,7 @@
   "description": "WhatsApp Manage",
   "main": "server.js",
   "engines": {
-    "node": "16.13.12"
+    "node": "6.11.1"
   },
   "scripts": {
     "start": "node server.js",
